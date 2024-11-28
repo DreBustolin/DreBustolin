@@ -1,7 +1,7 @@
 ## Hi there 👋
 ---
 
-![top] (![051b6199d99364a851b82feefcbb34ae](https://github.com/user-attachments/assets/caf270a4-138a-4ae5-84f6-6a126e4f674b)
+(![051b6199d99364a851b82feefcbb34ae](https://github.com/user-attachments/assets/caf270a4-138a-4ae5-84f6-6a126e4f674b)
 
 
 <!--
