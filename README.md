@@ -1,7 +1,8 @@
 ## Hi there 👋
----
 
-!(![051b6199d99364a851b82feefcbb34ae](https://github.com/user-attachments/assets/caf270a4-138a-4ae5-84f6-6a126e4f674b)
+(![file:///C:/Dre/Notion/tumblr_eccf2981c289f04782042b668e15701a_a3bad391_500.webp](https://github.com/user-attachments/assets/caf270a4-138a-4ae5-84f6-6a126e4f674b)
+
+
 
 
 <!--
