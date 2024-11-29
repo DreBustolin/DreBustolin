@@ -1,9 +1,5 @@
 ## Hello World 👋
 
-![alt text](tumblr_eccf2981c289f04782042b668e15701a_a3bad391_500.webp)
-
------------------
-
 ## 💻 Linguagens e Tecnologias
 
  <img 
