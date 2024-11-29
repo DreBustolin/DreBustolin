@@ -1,8 +1,4 @@
 ## Hello World 👋
-
-![Uploading 051b6199d99364a851b82feefcbb34ae.gif…]()
-
-
 -----------------
 
 ## 💻 Linguagens e Tecnologias
